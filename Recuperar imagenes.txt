@@ -1,0 +1,1 @@
+Para la recuperación de las imágenes, he añadido un seleccionador de archivos en la ventana de "PRODUCTOS" para el "Administrador". Es solo seleccionar las imágenes y darle al botón de editar.
